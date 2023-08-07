@@ -6,4 +6,4 @@ for i in range(N-1):
     num1 = int(input())
     if(num1<num):
         num = num1
-print(num1)
+print(num)
